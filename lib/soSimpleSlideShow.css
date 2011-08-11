@@ -15,7 +15,7 @@
   opacity: 1;
 }
 
-.image.last-active {
+.so-simple-slide-show .slide.last-active {
   z-index: 9;
   opacity: 1;
 }
